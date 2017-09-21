@@ -8,8 +8,13 @@
    console.log('I am something');
    console.log('Bug fixed');
   }
+  function increasevalue(){
+    console.log("value get inc.");
+  }
   console.log("hello world");
   something();
   aBigNewFeature();
+  increasevalue();
+
 
 
